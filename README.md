@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Data Structure and Algorithm<br>💬 Ask me about backend engineering with laravel<br>⚡ Fun fact (i'm interesting with math)
+🌱 I’m currently learning Data Structure and Algorithm<br>💬 Ask me about backend engineering with laravel<br>⚡ Fun fact (i'm interesting in math)
 
 
 ## 🌐 Socials:
